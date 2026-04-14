@@ -102,4 +102,4 @@ python tweet_sentiment_analysis.py
 
 ## 👨‍💻 Author
 
-Your Name
+Raja Anzar Nisar
